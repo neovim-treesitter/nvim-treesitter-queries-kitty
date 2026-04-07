@@ -1,8 +1,7 @@
 {
   "url": "https://github.com/OXY2DEV/tree-sitter-kitty",
-  "semver": false,
-  "min_version": null,
-  "max_version": null,
+  "lang": "kitty",
+  "parser_version": "fa6ab3fd32d890a0217495c96b35761e6d2dcb5b",
   "location": null,
-  "lang": "kitty"
+  "semver": false
 }
